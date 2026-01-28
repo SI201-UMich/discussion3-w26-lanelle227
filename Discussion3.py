@@ -1,3 +1,5 @@
+#Name Mariah Cooperwood
+
 import math
 
 class Rectangle():
