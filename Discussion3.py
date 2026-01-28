@@ -1,5 +1,5 @@
 #Name Mariah Cooperwood
-
+#email lanelle@umich.edu
 import math
 
 class Rectangle():
